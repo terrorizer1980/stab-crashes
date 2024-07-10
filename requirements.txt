@@ -3,3 +3,4 @@ libmozdata>=0.1.34
 requests[security]>=2.7.0
 six>=1.10.0
 taskcluster
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
